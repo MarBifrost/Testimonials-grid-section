@@ -7,7 +7,7 @@ html {
 }
 @font-face {
     font-family: barlow;
-    src: url(./assets/fonts/BarlowSemiCondensed-Regular.ttf);
+    src: url(../assets/fonts/BarlowSemiCondensed-Regular.ttf);
 }
 
 body {
