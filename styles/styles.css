@@ -18,8 +18,8 @@ body {
 
 
 .gridcontainer {
-    margin-top: 25%;
-    margin-left: 37%;
+    margin-top: 30%;
+    margin-left: 40%;
     transform: translate(-50%, -50%);
     display: grid;
     grid-template-columns: 540px 255px 255px;
