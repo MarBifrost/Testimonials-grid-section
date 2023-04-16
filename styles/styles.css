@@ -18,6 +18,9 @@ body {
 
 
 .gridcontainer {
+    margin-top: 50%;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
     display: grid;
     grid-template-columns: 540px 255px 255px;
     column-gap: 2em;
